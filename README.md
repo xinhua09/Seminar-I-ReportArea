@@ -7,3 +7,4 @@
 3. [2025/10/07 講題：半導體電漿電源的演進、應用與設計關鍵 講師：洪再和 博士](20251007/README.md) 
 4. [2025/10/14 講題：A Study of Efficient GNSS Coordinate Classification Strategies for Epidemic Management 講師：陳信忠 副教授](20251014/README.md) 
 5. [2025/10/21 講題：綠色科技與光電元件之發展應用 講師：聯合大學 楊勝州 教授](20251021/README.md) 
+6. [2025/11/11 講題：生成世人工智慧與異質平台整合應用 講師：欉振坤 教授](20251111/README.md) 
