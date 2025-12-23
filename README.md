@@ -9,3 +9,4 @@
 5. [2025/10/21 講題：綠色科技與光電元件之發展應用 講師：聯合大學 楊勝州 教授](20251021/README.md) 
 6. [2025/11/11 講題：生成世人工智慧與異質平台整合應用 講師：欉振坤 教授](20251111/README.md) 
 7. [2025/11/18 講題：台灣的地震觀測：漫談地震觀測的趣味與挑戰 講師：梁文宗 研究技師](20251118/README.md) 
+8. [2025/12/23 講題：Ultra Lightweight Dehace Methods for Robot Vision Using High-Level Synthesis 講師：宋啟嘉特聘教授](20251223/README.md) 
